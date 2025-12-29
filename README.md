@@ -46,6 +46,7 @@ I work best where the problem is ambiguous, the data is messy, and the impact is
 </p>
 </p>
 
+
 ---
 
 ## Skills & Toolkit
@@ -77,6 +78,7 @@ I work best where the problem is ambiguous, the data is messy, and the impact is
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
+
 ---
 
 ## Building AI Systems: Techniques I Specialize In
@@ -102,26 +104,25 @@ I work best where the problem is ambiguous, the data is messy, and the impact is
 
 ---
 
-## Let’s Connect
+<h3 align="center" >Let’s Connect!!!</h3>
 <div align="center">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mrudulaharim/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
          width="52" height="40" alt="LinkedIn"/>
   </a>
 
-  <!-- Gmail -->
   <a href="mailto:m.mrudulahari@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
          width="52" height="40" alt="Gmail"/>
   </a>
 
-  <!-- Medium -->
   <a href="https://medium.com/@malayanurmrudu" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg"
          width="52" height="40" alt="Medium"/>
   </a>
 </div>
+
+
 
 <!-- FOOTER -->
 <p align="center">
