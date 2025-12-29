@@ -103,7 +103,6 @@ I work best where the problem is ambiguous, the data is messy, and the impact is
 ---
 
 ## Let’s Connect
-
 <div align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mrudulaharim/" target="_blank">
@@ -123,7 +122,6 @@ I work best where the problem is ambiguous, the data is messy, and the impact is
          width="52" height="40" alt="Medium"/>
   </a>
 </div>
-
 
 <!-- FOOTER -->
 <p align="center">
